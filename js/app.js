@@ -49,6 +49,6 @@ console.log('speaking out');
 }
 
 speakBtn.addEventListener("click",()=>{
-    readOut("HI,manu tum mujhe bahut aache lagte ho");
+    readOut("HI,himanshu tum mujhe bahut aache lagte ho");
 });
 
